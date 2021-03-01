@@ -108,7 +108,7 @@ class SinglyLinkedList {
   }
 
   // 노드 제거
-  remove(index: number, value: number) {
+  remove(index: number) {
     if (index < 0 || index > this.length) return undefined
     if (index === this.length) return this.pop()
     if (index === 0) return this.shift()
