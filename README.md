@@ -1,6 +1,6 @@
 # 알고리즘 자료구조 스터디
 
-프로그래밍 언어: javascript, typescript, golang
+프로그래밍 언어: typescript, golang
 
 ---
 
@@ -16,3 +16,6 @@ udemy [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.
 ---
 
 ## 알고리즘
+
+도서  
+"이것이 취업을 위한 코딩 테스트다 with 파이썬, 20020, 나동빈"
