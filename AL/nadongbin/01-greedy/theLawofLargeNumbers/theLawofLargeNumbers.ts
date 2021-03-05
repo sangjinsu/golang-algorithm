@@ -1,4 +1,4 @@
-function solution(n: number, m: number, k: number, nums: number[]) {
+function theLawofLargeNumbers(n: number, m: number, k: number, nums: number[]) {
   nums.sort((a, b) => b - a)
 
   const count = Math.floor(m / (k + 1)) * k + (m % (k + 1))
@@ -10,4 +10,4 @@ function solution(n: number, m: number, k: number, nums: number[]) {
 const nums = [7, 6, 5, 1, 2]
 const [n, m, k] = [5, 8, 4]
 
-console.log(solution(n, m, k, nums))
+console.log(theLawofLargeNumbers(n, m, k, nums))
