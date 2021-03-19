@@ -6,13 +6,13 @@ import (
 	"math"
 )
 
-type Vertex struct {
+type Edge struct {
 	adjacent int
 	distance int
 	index    int
 }
 
-type PriorityQueue []*Vertex
+type PriorityQueue []*Edge
 
 func (pq PriorityQueue) Len() int {
 	return len(pq)
@@ -30,7 +30,7 @@ func (pq PriorityQueue) Less(i, j int) bool {
 
 func (pq *PriorityQueue) Push(x interface{}) {
 	n := len(*pq)
-	item := x.(*Vertex)
+	item := x.(*Edge)
 	item.index = n
 	*pq = append(*pq, item)
 }
@@ -45,15 +45,15 @@ func (pq *PriorityQueue) Pop() interface{} {
 	return node
 }
 
-func dijkstra(start int, graph [][]Vertex, distance []int) {
+func dijkstra(start int, graph [][]Edge, distance []int) {
 	pq := make(PriorityQueue, 1)
-	pq[0] = &Vertex{adjacent: start, distance: 0, index: 0}
+	pq[0] = &Edge{adjacent: start, distance: 0, index: 0}
 	distance[start] = 0
 
 	heap.Init(&pq)
 
 	for pq.Len() > 0 {
-		v := heap.Pop(&pq).(*Vertex)
+		v := heap.Pop(&pq).(*Edge)
 		now, d := v.adjacent, v.distance
 
 		if distance[now] < d {
@@ -64,7 +64,7 @@ func dijkstra(start int, graph [][]Vertex, distance []int) {
 			cost := d + v.distance
 			if cost < distance[v.adjacent] {
 				distance[v.adjacent] = cost
-				heap.Push(&pq, &Vertex{adjacent: v.adjacent, distance: cost})
+				heap.Push(&pq, &Edge{adjacent: v.adjacent, distance: cost})
 			}
 		}
 	}
@@ -74,12 +74,12 @@ func main() {
 	var N, M, C int
 	fmt.Scanln(&N, &M, &C)
 
-	graph := make([][]Vertex, N+1)
+	graph := make([][]Edge, N+1)
 
 	for i := 0; i < M; i++ {
 		var X, Y, Z int
 		fmt.Scanln(&X, &Y, &Z)
-		graph[X] = append(graph[X], Vertex{adjacent: Y, distance: Z})
+		graph[X] = append(graph[X], Edge{adjacent: Y, distance: Z})
 	}
 
 	distance := make([]int, N+1)
