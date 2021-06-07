@@ -1,6 +1,6 @@
 # 알고리즘 자료구조 스터디
 
-프로그래밍 언어: typescript, golang
+프로그래밍 언어: golang
 
 ---
 
