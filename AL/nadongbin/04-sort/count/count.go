@@ -13,7 +13,7 @@ func main() {
 
 	fmt.Println(countList)
 
-	sortedArr := []int{}
+	var sortedArr []int
 	for i, count := range countList {
 		for j := 0; j < count; j++ {
 			sortedArr = append(sortedArr, i)
