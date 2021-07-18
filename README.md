@@ -22,3 +22,10 @@ udemy [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.
 
 웹사이트  
 [백준 온라인 저지](https://www.acmicpc.net/) 
+
+## List
+
+| Date | Name | Site | Solved |
+| ---- | ---- | ---- | ------ |
+|      |      |      |        |
+
