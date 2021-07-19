@@ -4,17 +4,6 @@
 
 ---
 
-## 자료구조
-
-유튜브 [엔지니어 대한민국](https://www.youtube.com/user/damazzang/featured)
-
-udemy [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
-
-도서  
-"C로 배우는 쉬운 자료구조, 2018, 이지영"
-
----
-
 ## 알고리즘
 
 도서  
@@ -27,5 +16,5 @@ udemy [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.
 
 | Date | Name | Site | Solved |
 | ---- | ---- | ---- | ------ |
-|      |      |      |        |
+|   2021.07.19   |  스택 수열    |  [boj 1874](https://www.acmicpc.net/problem/1874)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/1874/boj1874.go)   |
 
