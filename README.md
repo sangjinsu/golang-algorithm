@@ -18,7 +18,10 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
-|   2021.07.21 |  요세푸스 문제   | queue |  [1158](https://www.acmicpc.net/problem/1158)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/queue/boj1158.go)   |
+|   2021.07.22 |  이진수 변환  | recursion |  [10829](https://www.acmicpc.net/problem/10829)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/recursion/10829/boj10829.go)  |
+|   2021.07.22 |  3의 배수  | recursion |  [1769](https://www.acmicpc.net/problem/1769)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/recursion/1769/boj1769.go)  |
+|   2021.07.22 |  더하기 사이클  | implement |  [1110](https://www.acmicpc.net/problem/1110)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/1110/boj1110.go)  |
+|   2021.07.21 |  요세푸스 문제   | queue |  [1158](https://www.acmicpc.net/problem/1158)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/queue/boj1158.go) :heavy_check_mark:   |
 |   2021.07.21 |  제로   | stack |  [10773](https://www.acmicpc.net/problem/10773)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/10773/boj10773.go)   |
 |   2021.07.21 |  단어순서 뒤집기   | stack |  [12605](https://www.acmicpc.net/problem/12605)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/12605/boj12605.go)   |
 |   2021.07.21 |  막대기 | stack |  [17068](https://www.acmicpc.net/problem/17608)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/17608/boj17608.go)   |
