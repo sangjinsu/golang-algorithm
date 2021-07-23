@@ -18,6 +18,7 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.07.23 | 하노이 탑 이동순서 |recursion| [11729](https://www.acmicpc.net/problem/11729) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/recursion/11729/boj11729.go) |
 |   2021.07.22 |  이진수 변환  | recursion |  [10829](https://www.acmicpc.net/problem/10829)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/recursion/10829/boj10829.go)  |
 |   2021.07.22 |  3의 배수  | recursion |  [1769](https://www.acmicpc.net/problem/1769)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/recursion/1769/boj1769.go)  |
 |   2021.07.22 |  더하기 사이클  | implement |  [1110](https://www.acmicpc.net/problem/1110)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/1110/boj1110.go)  |
