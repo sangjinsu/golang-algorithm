@@ -18,6 +18,7 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.07.28 | 오큰수 |stack| [17298](https://www.acmicpc.net/problem/17298) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_17298.py)✔️ |
 | 2021.07.23 | 카드2 |queue| [2164](https://www.acmicpc.net/problem/2164) | [solved](https://github.com/jinsuSang/golang-algorithm/tree/main/AL/boj/tag/queue/2164) |
 | 2021.07.23 | 프린터 큐 |queue| [1966](https://www.acmicpc.net/problem/1966) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/queue/1966/boj1966.go) |
 | 2021.07.23 | 하노이 탑 이동순서 |recursion| [11729](https://www.acmicpc.net/problem/11729) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/recursion/11729/boj11729.go) |
