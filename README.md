@@ -18,9 +18,9 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
-| 2021.08.12 | 숨바꼭질 6 |math| 1708 | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj1708.go) |
-| 2021.08.12 | 8진수 2진수 |math| 1212 | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj1212.go) |
-| 2021.08.12 | 2진수 8진수 |math| 1373 | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj1373.go) |
+| 2021.08.12 | 숨바꼭질 6 |math| [1708](https://www.acmicpc.net/problem/1708) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj1708.go) |
+| 2021.08.12 | 8진수 2진수 |math| [1212](https://www.acmicpc.net/problem/1212) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj1212.go) |
+| 2021.08.12 | 2진수 8진수 |math| [1373](https://www.acmicpc.net/problem/1373) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj1373.go) |
 | 2021.08.06 | 골드바흐의 추측 |math| [6588](https://www.acmicpc.net/problem/6588) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj6588.go) |
 | 2021.08.05 | 소수 찾기 |math| [1978](https://www.acmicpc.net/problem/1978) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/1978/boj1978.go) |
 | 2021.08.05 | 소수 구하기 |math| [1929](https://www.acmicpc.net/problem/1929) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/1929/boj1929.go) |
