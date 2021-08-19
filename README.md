@@ -14,10 +14,23 @@
 
 ---
 
+## Algorithm
+
+| Date       | algorithm            | implement                                                    |
+| ---------- | -------------------- | ------------------------------------------------------------ |
+| 2021.08.18 | DFS - 깊이 우선 탐색 | [DFS](https://github.com/jinsuSang/golang-algorithm/tree/main/AL/algorithm/dfs) |
+
+---
+
 ## Baekjoon
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.08.18 | 2×n 타일링2 | dynamic | [11727](https://www.acmicpc.net/problem/11726) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/11727/boj11727.go) |
+| 2021.08.18 | 2×n 타일링 | dynamic | [11726](https://www.acmicpc.net/problem/11726) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/11726/boj11726.go) |
+| 2021.08.18 | 카드 구매하기 | dynamic | [11052](https://www.acmicpc.net/problem/11052) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11052.py) :heavy_check_mark: |
+| 2021.08.18 | 1, 2, 3 더하기 | dynamic | [9095](https://www.acmicpc.net/problem/9095) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_9095.py) |
+| 2021.08.18 | 1로 만들기 | dynamic | [1463](https://www.acmicpc.net/problem/1463) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/1463/boj1463.go) |
 | 2021.08.12 | 숨바꼭질 6 |math| [1708](https://www.acmicpc.net/problem/1708) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj1708.go) |
 | 2021.08.12 | 8진수 2진수 |math| [1212](https://www.acmicpc.net/problem/1212) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj1212.go) |
 | 2021.08.12 | 2진수 8진수 |math| [1373](https://www.acmicpc.net/problem/1373) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj1373.go) |
