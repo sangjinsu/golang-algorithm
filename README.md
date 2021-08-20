@@ -26,6 +26,8 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.08.19 | 1, 2, 3 더하기 3 |dynamic| [15988](https://www.acmicpc.net/problem/15988) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/15988/boj15988.go) |
+| 2021.08.19 | 카드 구매하기2 |dynamic| [16194](https://www.acmicpc.net/problem/16194) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/16194/boj16194.go) |
 | 2021.08.18 | 2×n 타일링2 | dynamic | [11727](https://www.acmicpc.net/problem/11726) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/11727/boj11727.go) |
 | 2021.08.18 | 2×n 타일링 | dynamic | [11726](https://www.acmicpc.net/problem/11726) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/11726/boj11726.go) |
 | 2021.08.18 | 카드 구매하기 | dynamic | [11052](https://www.acmicpc.net/problem/11052) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/dynamic/boj_11052.py) :heavy_check_mark: |
