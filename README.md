@@ -26,6 +26,8 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.08.23 | 후위표기식2 |stack| [1935](https://www.acmicpc.net/problem/1935) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/1935/boj1935.go) |
+| 2021.08.23 | 후위표기식         |stack| [1918](https://www.acmicpc.net/problem/1918) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/1918/boj1918.go):heavy_check_mark: |
 | 2021.08.19 | 1, 2, 3 더하기 3 |dynamic| [15988](https://www.acmicpc.net/problem/15988) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/15988/boj15988.go) |
 | 2021.08.19 | 카드 구매하기2 |dynamic| [16194](https://www.acmicpc.net/problem/16194) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/16194/boj16194.go) |
 | 2021.08.18 | 2×n 타일링2 | dynamic | [11727](https://www.acmicpc.net/problem/11726) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/11727/boj11727.go) |
@@ -39,7 +41,6 @@
 | 2021.08.06 | 골드바흐의 추측 |math| [6588](https://www.acmicpc.net/problem/6588) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/6588/boj6588.go) |
 | 2021.08.05 | 소수 찾기 |math| [1978](https://www.acmicpc.net/problem/1978) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/1978/boj1978.go) |
 | 2021.08.05 | 소수 구하기 |math| [1929](https://www.acmicpc.net/problem/1929) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/%20math/1929/boj1929.go) |
-| 2021.07.29 | 후위표기식 | stack     | [1918](https://www.acmicpc.net/problem/1918) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/1918/boj1918.go):heavy_check_mark: |
 | 2021.07.29 | 오큰등수 |stack| [17299](https://www.acmicpc.net/problem/17299) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/17299/boj17299.go):heavy_check_mark: |
 | 2021.07.28 | 오큰수 |stack| [17298](https://www.acmicpc.net/problem/17298) | [solved](https://github.com/jinsuSang/python-algorithm/blob/main/boj/stack/boj_17298.py)✔️ |
 | 2021.07.23 | 카드2 |queue| [2164](https://www.acmicpc.net/problem/2164) | [solved](https://github.com/jinsuSang/golang-algorithm/tree/main/AL/boj/tag/queue/2164) |
