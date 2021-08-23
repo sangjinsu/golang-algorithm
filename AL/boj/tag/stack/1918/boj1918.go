@@ -4,11 +4,47 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"strings"
 )
 
-func isOperatorOrBracket(expr string) bool {
-	return expr != "+" && expr != "-" && expr != "*" && expr != "/" && expr != "(" && expr != ")"
+func makePostfix(expr string) string {
+	op := map[rune]int{
+		'(': 0,
+		'+': 1,
+		'-': 1,
+		'*': 2,
+		'/': 2,
+	}
+
+	var stack []rune
+	var postfix string
+	for _, e := range expr {
+		if 'A' <= e && e <= 'Z' {
+			postfix += string(e)
+		} else {
+			if e == '(' {
+				stack = append(stack, e)
+			} else if e == ')' {
+				for len(stack) > 0 && stack[len(stack)-1] != '(' {
+					postfix += string(stack[len(stack)-1])
+					stack = stack[:len(stack)-1]
+				}
+				stack = stack[:len(stack)-1]
+			} else {
+				for len(stack) > 0 && op[e] <= op[stack[len(stack)-1]] {
+					postfix += string(stack[len(stack)-1])
+					stack = stack[:len(stack)-1]
+				}
+				stack = append(stack, e)
+			}
+		}
+	}
+
+	for len(stack) > 0 {
+		postfix += string(stack[len(stack)-1])
+		stack = stack[:len(stack)-1]
+	}
+
+	return postfix
 }
 
 func main() {
@@ -16,43 +52,9 @@ func main() {
 	writer := bufio.NewWriter(os.Stdout)
 	defer writer.Flush()
 
-	input, _ := reader.ReadString('\n')
-	expression := strings.Split(strings.TrimSuffix(input, "\n"), "")
+	var expr string
+	fmt.Fscanln(reader, &expr)
 
-	op := map[string]int{
-		"(": 0,
-		"+": 1,
-		"-": 1,
-		"*": 2,
-		"/": 2,
-	}
-
-	var stack []string
-	var postfix string
-	for _, expr := range expression {
-		if isOperatorOrBracket(expr) {
-			if expr == ")" {
-				for len(stack) > 0 && stack[len(stack)-1] != "(" {
-					postfix += stack[len(stack)-1]
-					stack = stack[:len(stack)-1]
-				}
-				stack = stack[:len(stack)-1]
-			} else {
-				for len(stack) > 0 && op[stack[len(stack)-1]] >= op[expr] {
-					postfix += stack[len(stack)-1]
-					stack = stack[:len(stack)-1]
-				}
-				stack = append(stack, expr)
-			}
-		} else {
-			postfix += expr
-		}
-	}
-
-	for len(stack) > 0 {
-		postfix += stack[len(stack)-1]
-		stack = stack[:len(stack)-1]
-	}
-
-	fmt.Fprint(writer, postfix)
+	result := makePostfix(expr)
+	fmt.Fprint(writer, result)
 }
