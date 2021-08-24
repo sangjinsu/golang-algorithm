@@ -26,6 +26,7 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.08.24 | N-Qeens |backtracking| [9663](https://www.acmicpc.net/problem/9663) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/backtracking/9663/boj9663.go) |
 | 2021.08.23 | 후위표기식2 |stack| [1935](https://www.acmicpc.net/problem/1935) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/1935/boj1935.go) |
 | 2021.08.23 | 후위표기식         |stack| [1918](https://www.acmicpc.net/problem/1918) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/1918/boj1918.go):heavy_check_mark: |
 | 2021.08.19 | 1, 2, 3 더하기 3 |dynamic| [15988](https://www.acmicpc.net/problem/15988) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/15988/boj15988.go) |
