@@ -26,6 +26,9 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.08.25 | 종이 자르기 |sorting| [2628](https://www.acmicpc.net/problem/2628) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/sorting/2628/boj2628.go) |
+| 2021.08.25 | 수 이어가기 |math| [2635](https://www.acmicpc.net/problem/2635) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/math/2635/boj2635.go) |
+| 2021.08.25 | 직사각형 네 개의 합집합의 면적 구하기 |implement| [2669](https://www.acmicpc.net/problem/2669) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/2669/boj2669.go) |
 | 2021.08.25 | 이친수 |dynamic| [2193](https://www.acmicpc.net/problem/2193) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/2193/boj2193.go) |
 | 2021.08.25 | 쉬운 계단 수 |dynamic| [10844](https://www.acmicpc.net/problem/10844) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/10844/boj10844.go) |
 | 2021.08.24 | N-Qeens |backtracking| [9663](https://www.acmicpc.net/problem/9663) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/backtracking/9663/boj9663.go) |
