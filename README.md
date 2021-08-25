@@ -26,6 +26,8 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.08.25 | 이친수 |dynamic| [2193](https://www.acmicpc.net/problem/2193) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/2193/boj2193.go) |
+| 2021.08.25 | 쉬운 계단 수 |dynamic| [10844](https://www.acmicpc.net/problem/10844) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/10844/boj10844.go) |
 | 2021.08.24 | N-Qeens |backtracking| [9663](https://www.acmicpc.net/problem/9663) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/backtracking/9663/boj9663.go) |
 | 2021.08.23 | 후위표기식2 |stack| [1935](https://www.acmicpc.net/problem/1935) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/1935/boj1935.go) |
 | 2021.08.23 | 후위표기식         |stack| [1918](https://www.acmicpc.net/problem/1918) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/stack/1918/boj1918.go):heavy_check_mark: |
