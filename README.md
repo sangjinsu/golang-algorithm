@@ -26,6 +26,8 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.08.26 | 주사위 쌓기 |implement| [2116](https://www.acmicpc.net/problem/2116)   | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/2116/boj2116.go) |
+| 2021.08.26 | 스위치 켜고 끄기 |implement| [1244](https://www.acmicpc.net/problem/1244)   | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/1244/boj1244.go) |
 | 2021.08.25 | 종이 자르기 |sorting| [2628](https://www.acmicpc.net/problem/2628) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/sorting/2628/boj2628.go) |
 | 2021.08.25 | 수 이어가기 |math| [2635](https://www.acmicpc.net/problem/2635) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/math/2635/boj2635.go) |
 | 2021.08.25 | 직사각형 네 개의 합집합의 면적 구하기 |implement| [2669](https://www.acmicpc.net/problem/2669) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/2669/boj2669.go) |
