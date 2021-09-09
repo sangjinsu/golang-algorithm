@@ -26,6 +26,10 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.09.09 | 가장 긴 증가하는 부분 수열 |dynamic| [11053](https://www.acmicpc.net/problem/11053) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/11053/boj11053.go) |
+| 2021.09.09 | 일곱 난쟁이 |bruteforce| [2309](https://www.acmicpc.net/problem/2309)   | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/2309/boj2309.go) |
+| 2021.09.09 | 연속합 |dynamic| [1912](https://www.acmicpc.net/problem/1912) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/1912/boj1912.go) |
+| 2021.09.09 | 제곱수의 합 |dynamic| [1699](https://www.acmicpc.net/problem/1699) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/1699/boj1699.go) |
 | 2021.08.26 | 주사위 쌓기 |implement| [2116](https://www.acmicpc.net/problem/2116)   | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/2116/boj2116.go) |
 | 2021.08.26 | 스위치 켜고 끄기 |implement| [1244](https://www.acmicpc.net/problem/1244)   | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/1244/boj1244.go) |
 | 2021.08.25 | 종이 자르기 |sorting| [2628](https://www.acmicpc.net/problem/2628) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/sorting/2628/boj2628.go) |
