@@ -26,6 +26,8 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.09.15 | 사탕게임 |bruteforce| [3085](https://www.acmicpc.net/problem/3085) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/3085/boj3085.go) |
+| 2021.09.15 | 듣보잡 |hashing| [1764](https://www.acmicpc.net/problem/1764) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/sorting/1764/boj1764.go) |
 | 2021.09.09 | 가장 긴 증가하는 부분 수열 |dynamic| [11053](https://www.acmicpc.net/problem/11053) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/11053/boj11053.go) |
 | 2021.09.09 | 일곱 난쟁이 |bruteforce| [2309](https://www.acmicpc.net/problem/2309)   | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/2309/boj2309.go) |
 | 2021.09.09 | 연속합 |dynamic| [1912](https://www.acmicpc.net/problem/1912) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/1912/boj1912.go) |
