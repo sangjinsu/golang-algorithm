@@ -26,6 +26,8 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.09.16 | 리모컨 |bruteforce| [1107](https://www.acmicpc.net/problem/1107) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/1107/boj1107.go) |
+| 2021.09.16 | 날짜계산 |bruteforce| [1476](https://www.acmicpc.net/problem/1476) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/1467/boj1467.go) |
 | 2021.09.15 | 사탕게임 |bruteforce| [3085](https://www.acmicpc.net/problem/3085) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/3085/boj3085.go) |
 | 2021.09.15 | 듣보잡 |hashing| [1764](https://www.acmicpc.net/problem/1764) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/sorting/1764/boj1764.go) |
 | 2021.09.09 | 가장 긴 증가하는 부분 수열 |dynamic| [11053](https://www.acmicpc.net/problem/11053) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/11053/boj11053.go) |
