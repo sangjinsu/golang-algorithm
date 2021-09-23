@@ -26,6 +26,9 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.09.23 | 연결 요소의 개수 |dfs| [11724](https://www.acmicpc.net/problem/11724) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/11724/boj11724.go) |
+| 2021.09.23 | DFS와 BFS |dfs/bfs| [1260](https://www.acmicpc.net/problem/1260) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/1260/boj1260.go) |
+| 2021.09.22 | ABCDE |dfs| [13023](https://www.acmicpc.net/problem/13023) | [solved](https://github.com/jinsuSang/golang-algorithm/tree/main/AL/boj/tag/graph/13023) |
 | 2021.09.16 | 리모컨 |bruteforce| [1107](https://www.acmicpc.net/problem/1107) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/1107/boj1107.go) |
 | 2021.09.16 | 날짜계산 |bruteforce| [1476](https://www.acmicpc.net/problem/1476) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/1467/boj1467.go) |
 | 2021.09.15 | 사탕게임 |bruteforce| [3085](https://www.acmicpc.net/problem/3085) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/3085/boj3085.go) |
