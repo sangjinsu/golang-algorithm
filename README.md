@@ -26,6 +26,7 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.09.24 | 단지번호붙이기 |dfs| [2667](https://www.acmicpc.net/problem/2667) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/2667/boj2667.go) |
 | 2021.09.23 | 연결 요소의 개수 |dfs| [11724](https://www.acmicpc.net/problem/11724) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/11724/boj11724.go) |
 | 2021.09.23 | DFS와 BFS |dfs/bfs| [1260](https://www.acmicpc.net/problem/1260) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/1260/boj1260.go) |
 | 2021.09.22 | ABCDE |dfs| [13023](https://www.acmicpc.net/problem/13023) | [solved](https://github.com/jinsuSang/golang-algorithm/tree/main/AL/boj/tag/graph/13023) |
