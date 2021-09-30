@@ -26,6 +26,8 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.09.30 | 나이트의 이동 |bfs| [7562](https://www.acmicpc.net/problem/7562) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/7562/boj7562.go) |
+| 2021.09.30 | 토마토 |bfs| [7576](https://www.acmicpc.net/problem/7576) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/7576/boj7576.go) |
 | 2021.09.29 | 미로 탐색 |bfs| [2178](https://www.acmicpc.net/problem/2178) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/2178/boj2178.go) |
 | 2021.09.29 | 섬의 개수 |dfs| [4963](https://www.acmicpc.net/problem/4963) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/4963/boj4963.go) |
 | 2021.09.24 | 단지번호붙이기 |dfs| [2667](https://www.acmicpc.net/problem/2667) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/2667/boj2667.go) |
