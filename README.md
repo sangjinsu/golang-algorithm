@@ -26,6 +26,7 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.10.01 | 암호 만들기 |recursion| [1759](https://www.acmicpc.net/problem/1759) | [solved]() |
 | 2021.09.30 | 나이트의 이동 |bfs| [7562](https://www.acmicpc.net/problem/7562) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/7562/boj7562.go) |
 | 2021.09.30 | 토마토 |bfs| [7576](https://www.acmicpc.net/problem/7576) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/7576/boj7576.go) |
 | 2021.09.29 | 미로 탐색 |bfs| [2178](https://www.acmicpc.net/problem/2178) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/2178/boj2178.go) |
@@ -84,4 +85,7 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- | ----|---- | ------ |
+| 2021.10.03 | 숫자 문자열과 영단어 || [level1](https://programmers.co.kr/learn/courses/30/lessons/81301) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/programmers/level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.go) |
+| 2021.10.03 | 로또의 최고 순위와 최저 순위 || [level1](https://programmers.co.kr/learn/courses/30/lessons/77484) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/programmers/level1/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.go) |
+| 2021.10.03 | 내적 || [level1](https://programmers.co.kr/learn/courses/30/lessons/70128) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/programmers/level1/%EB%82%B4%EC%A0%81.go) |
 |   2021.07.19   |  모의고사    | | [level1](https://programmers.co.kr/learn/courses/30/lessons/42840)    |     [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/programmers/level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.go)   |
