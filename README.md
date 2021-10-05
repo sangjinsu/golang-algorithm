@@ -26,6 +26,9 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.10.05 | 평범한 배낭 |dynamic| [12865](https://www.acmicpc.net/problem/12865) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/dynamic/12865/boj12865.go) |
+| 2021.10.05 | 회의실 배정 |greedy| [1931](https://www.acmicpc.net/problem/1931) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/greedy/1931/boj1931.go) |
+| 2021.10.05 | 퇴사 |recursion| [14501](https://www.acmicpc.net/problem/14501) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/14501/boj14501.go) |
 | 2021.10.01 | 암호 만들기 |recursion| [1759](https://www.acmicpc.net/problem/1759) | [solved]() |
 | 2021.09.30 | 나이트의 이동 |bfs| [7562](https://www.acmicpc.net/problem/7562) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/7562/boj7562.go) |
 | 2021.09.30 | 토마토 |bfs| [7576](https://www.acmicpc.net/problem/7576) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/graph/7576/boj7576.go) |
