@@ -16,9 +16,10 @@
 
 ## Algorithm
 
-| Date       | algorithm            | implement                                                    |
-| ---------- | -------------------- | ------------------------------------------------------------ |
-| 2021.08.18 | DFS - 깊이 우선 탐색 | [DFS](https://github.com/jinsuSang/golang-algorithm/tree/main/AL/algorithm/dfs) |
+| Date       | algorithm               | implement                                                    |
+| ---------- | ----------------------- | ------------------------------------------------------------ |
+| 2021.1007  | Merge Sort -  병합 정렬 | [Merge Sort](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/algorithm/mergesort/mergesort.go) |
+| 2021.08.18 | DFS - 깊이 우선 탐색    | [DFS](https://github.com/jinsuSang/golang-algorithm/tree/main/AL/algorithm/dfs) |
 
 ---
 
