@@ -16,10 +16,13 @@
 
 ## Algorithm
 
-| Date       | algorithm               | implement                                                    |
-| ---------- | ----------------------- | ------------------------------------------------------------ |
-| 2021.1007  | Merge Sort -  병합 정렬 | [Merge Sort](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/algorithm/mergesort/mergesort.go) |
-| 2021.08.18 | DFS - 깊이 우선 탐색    | [DFS](https://github.com/jinsuSang/golang-algorithm/tree/main/AL/algorithm/dfs) |
+| Date       | algorithm                 | implement                                                    |
+| ---------- | ------------------------- | ------------------------------------------------------------ |
+| 2021.10.13 | Graph - 크루스갈 알고리즘 | [graph](https://github.com/ruslanlvivsky/golang-algorithm/tree/main/AL/algorithm/graph) |
+| 2021.10.13 | Graph - 사이클 체크       | [graph](https://github.com/ruslanlvivsky/golang-algorithm/tree/main/AL/algorithm/graph) |
+| 2021.10.13 | Graph - 서로소 집합       | [graph](https://github.com/ruslanlvivsky/golang-algorithm/tree/main/AL/algorithm/graph) |
+| 2021.10.07 | Merge Sort -  병합 정렬   | [Merge Sort](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/algorithm/mergesort/mergesort.go) |
+| 2021.08.18 | DFS - 깊이 우선 탐색      | [DFS](https://github.com/jinsuSang/golang-algorithm/tree/main/AL/algorithm/dfs) |
 
 ---
 
