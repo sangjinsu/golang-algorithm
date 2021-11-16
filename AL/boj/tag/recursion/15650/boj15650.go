@@ -21,7 +21,11 @@ func recursion(cnt int, result []int, visited []bool, N int, M int) {
 		fmt.Fprintln(writer, strResult)
 		return
 	}
-	for i := 1; i < N+1; i++ {
+	start := 1
+	if len(result) > 0 {
+		start = result[len(result)-1]
+	}
+	for i := start; i < N+1; i++ {
 		if visited[i] == false {
 			visited[i] = true
 			result = append(result, i)
