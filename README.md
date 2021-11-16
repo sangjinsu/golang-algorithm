@@ -30,6 +30,9 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.11.16 | N 과 M (2) |recursion| [15650](https://www.acmicpc.net/problem/15650) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15650/boj15650.go) |
+| 2021.11.16 | N 과 M (1) |recursion| [15649](https://www.acmicpc.net/problem/15649) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15649/boj15649.go) |
+| 2021.11.16 | 수 이어 쓰기 1 |bruteforce| [1748](https://www.acmicpc.net/problem/1748) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/bruteforce/1748/boj1748.go) |
 | 2021.10.05 | 평범한 배낭 |dynamic| [12865](https://www.acmicpc.net/problem/12865) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/dynamic/12865/boj12865.go) |
 | 2021.10.05 | 회의실 배정 |greedy| [1931](https://www.acmicpc.net/problem/1931) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/greedy/1931/boj1931.go) |
 | 2021.10.05 | 퇴사 |recursion| [14501](https://www.acmicpc.net/problem/14501) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/14501/boj14501.go) |
