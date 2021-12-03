@@ -30,6 +30,10 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.12.03 | 부등호 |recursion| [2529](https://www.acmicpc.net/problem/2529) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/2529/boj2529.go) |
+| 2021.12.03 | N 과 M (5) |recursion| [15654](https://www.acmicpc.net/problem/15654) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15654/boj15654.go) |
+| 2021.12.03 | N 과 M (4) |recursion| [15652](https://www.acmicpc.net/problem/15652) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15652/boj15652.go) |
+| 2021.12.03 | N 과 M (3) |recursion| [15651](https://www.acmicpc.net/problem/15651) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15651/boj15651.go) |
 | 2021.12.01 | 스타트와 링크 |recursion| [14889](https://www.acmicpc.net/problem/14889) | [solved](https://github.com/sangjinsu/golang-algorithm/blob/main/AL/boj/tag/recursion/14889/boj14889.go) |
 | 2021.11.16 | N 과 M (2) |recursion| [15650](https://www.acmicpc.net/problem/15650) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15650/boj15650.go) |
 | 2021.11.16 | N 과 M (1) |recursion| [15649](https://www.acmicpc.net/problem/15649) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15649/boj15649.go) |
