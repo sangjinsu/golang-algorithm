@@ -30,6 +30,8 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.12.04 | 다음 순열 |순열| [10972](https://www.acmicpc.net/problem/10972) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/permutation/10972/boj10972.go) |
+| 2021.12.04 | N과 M (6) |recursion| [15655](https://www.acmicpc.net/problem/15655) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15655/boj15655.go) |
 | 2021.12.03 | 부등호 |recursion| [2529](https://www.acmicpc.net/problem/2529) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/2529/boj2529.go) |
 | 2021.12.03 | N 과 M (5) |recursion| [15654](https://www.acmicpc.net/problem/15654) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15654/boj15654.go) |
 | 2021.12.03 | N 과 M (4) |recursion| [15652](https://www.acmicpc.net/problem/15652) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15652/boj15652.go) |
