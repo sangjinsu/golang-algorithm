@@ -30,6 +30,13 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.12.07 | 피보나치 함수 |dynamic| [1003](https://www.acmicpc.net/problem/1003) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/1003/boj1003.go) |
+| 2021.12.07 | 패션왕 신해빈 |math| [9375](https://www.acmicpc.net/problem/9375) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/math/9375/boj9375.go) |
+| 72021.12.07 | 배열 돌리기 1 |implement| [16926](https://www.acmicpc.net/problem/16926) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/16926/boj16926.go) |
+| 2021.12.07 | 모든 순열 |순열| [10974](https://www.acmicpc.net/problem/10974) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/permutation/10974/boj10974.go) |
+| 2021.12.07 | 이전 순열 |순열| [10973](https://www.acmicpc.net/problem/10973) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/permutation/10973/boj10973.go) |
+| 2021.12.07 | N과 M (8) |recursion| [15657](https://www.acmicpc.net/problem/15657) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15657/boj15657.go) |
+| 2021.12.07 | N과 M (7) |recursion| [15656](https://www.acmicpc.net/problem/15656) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15656/boj15656.go) |
 | 2021.12.04 | 다음 순열 |순열| [10972](https://www.acmicpc.net/problem/10972) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/permutation/10972/boj10972.go) |
 | 2021.12.04 | N과 M (6) |recursion| [15655](https://www.acmicpc.net/problem/15655) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/15655/boj15655.go) |
 | 2021.12.03 | 부등호 |recursion| [2529](https://www.acmicpc.net/problem/2529) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/recursion/2529/boj2529.go) |
