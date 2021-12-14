@@ -30,6 +30,10 @@
 
 | Date | Name |Type| Site | Solved |
 | ---- | ---- |---- |---- | ------ |
+| 2021.12.14 | RGB거리 |dynamic| [1149](https://www.acmicpc.net/problem/1149) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/1149/boj1149.go) |
+| 2021.12.14 | 가장 긴 증가하는 부분 수열 3 |dynamic| [12738](https://www.acmicpc.net/problem/12738) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/12738/boj12738.go) |
+| 2021.12.14 | 가장 긴 증가하는 부분 수열 2 |dynamic| [12015](https://www.acmicpc.net/problem/12015) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/12015/boj12015.go) |
+| 2021.12.14 | 차이를 최대로 |순열| [10819](https://www.acmicpc.net/problem/10819) | [solved](https://github.com/ruslanlvivsky/golang-algorithm/blob/main/AL/boj/tag/permutation/10819/boj10819.go) |
 | 2021.12.07 | 피보나치 함수 |dynamic| [1003](https://www.acmicpc.net/problem/1003) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/dynamic/1003/boj1003.go) |
 | 2021.12.07 | 패션왕 신해빈 |math| [9375](https://www.acmicpc.net/problem/9375) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/math/9375/boj9375.go) |
 | 72021.12.07 | 배열 돌리기 1 |implement| [16926](https://www.acmicpc.net/problem/16926) | [solved](https://github.com/jinsuSang/golang-algorithm/blob/main/AL/boj/tag/implement/16926/boj16926.go) |
