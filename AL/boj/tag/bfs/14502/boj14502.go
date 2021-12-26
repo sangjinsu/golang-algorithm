@@ -5,6 +5,7 @@ import (
 	"container/list"
 	"fmt"
 	"os"
+	"sync"
 )
 
 type Pos struct {
@@ -19,6 +20,7 @@ var (
 	result int
 	dx     = []int{0, 0, -1, 1}
 	dy     = []int{-1, 1, 0, 0}
+	wg     sync.WaitGroup
 )
 
 func main() {
@@ -36,18 +38,27 @@ func main() {
 		}
 		mat[y] = line
 	}
+	ch := make(chan int)
+	recursion(0, ch)
 
-	recursion(0)
+	go func() {
+		wg.Wait()
+		close(ch)
+	}()
+
+	for v := range ch {
+		if result < v {
+			result = v
+		}
+	}
 
 	fmt.Fprintf(writer, "%d\n", result)
 }
 
-func recursion(block int) {
+func recursion(block int, ch chan int) {
 	if block == 3 {
-		cnt := bfs(mat)
-		if result < cnt {
-			result = cnt
-		}
+		wg.Add(1)
+		go bfs(mat, ch)
 		return
 	}
 
@@ -55,14 +66,15 @@ func recursion(block int) {
 		for x := 0; x < M; x++ {
 			if mat[y][x] == 0 {
 				mat[y][x] = 1
-				recursion(block + 1)
+				recursion(block+1, ch)
 				mat[y][x] = 0
 			}
 		}
 	}
+
 }
 
-func bfs(mat [][]int) int {
+func bfs(mat [][]int, ch chan int) {
 	queue := list.New()
 	m := make([][]int, N)
 
@@ -110,5 +122,6 @@ func bfs(mat [][]int) int {
 		}
 	}
 
-	return cnt
+	ch <- cnt
+	wg.Done()
 }
