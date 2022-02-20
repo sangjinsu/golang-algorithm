@@ -34,8 +34,7 @@ func main() {
 
 	for i := 0; i < N-1; i++ {
 
-		for j := 0; j < len(mat[i]); j++ {
-			fmt.Println(dp)
+		for j := 0; j < i+1; j++ {
 			if dp[i+1][j] < mat[i+1][j]+dp[i][j] {
 				dp[i+1][j] = mat[i+1][j] + dp[i][j]
 			}
@@ -45,5 +44,12 @@ func main() {
 		}
 	}
 
-	fmt.Println(dp)
+	result := 0
+	for i := 0; i < N; i++ {
+		if result < dp[N-1][i] {
+			result = dp[N-1][i]
+		}
+	}
+
+	fmt.Fprintln(writer, result)
 }
