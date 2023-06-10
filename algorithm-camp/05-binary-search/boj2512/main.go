@@ -5,8 +5,6 @@ import (
 	"fmt"
 	"os"
 	"sort"
-	"strconv"
-	"strings"
 )
 
 func main() {
@@ -14,23 +12,41 @@ func main() {
 	writer := bufio.NewWriter(os.Stdout)
 	defer writer.Flush()
 
-	var N int
-	var inputStr string
+	var N, M int
 	var budgets []int
 
 	fmt.Fscanf(reader, "%d\n", &N)
-	fmt.Fscanf(reader, "%s\n", &inputStr)
-	budgetsStr := strings.Split(inputStr, " ")
-	for _, b := range budgetsStr {
-		budget, _ := strconv.Atoi(b)
+
+	for i := 0; i < N; i++ {
+		var budget int
+		fmt.Fscanf(reader, "%d ", &budget)
 		budgets = append(budgets, budget)
 	}
 	sort.Ints(budgets)
 
-	left := 0
-	right := budgets[len(budgets)-1]
+	fmt.Fscanf(reader, "%d\n", &M)
 
-	for left < right {
+	var left, result int
+	right := budgets[N-1]
 
+	for left <= right {
+		mid := (left + right) / 2
+		var total int
+		for _, budget := range budgets {
+			if budget >= mid {
+				total += mid
+			} else {
+				total += budget
+			}
+		}
+
+		if total > M {
+			right = mid - 1
+		} else {
+			result = mid
+			left = mid + 1
+		}
 	}
+
+	fmt.Fprint(writer, result)
 }
